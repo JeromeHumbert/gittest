@@ -1,5 +1,4 @@
-## Évaluation du TP 
-###Nom Prénom
+## Évaluation du TP ###Nom Prénom
 | N° | Critère | Points | Max | Commentaires |
 | 1.0 | Ceci est un critère de test | 42.0 | 50.0 | Peu mieux faire ! | 
 | 2.0 |  |  |  |  | 
